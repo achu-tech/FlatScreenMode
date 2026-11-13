@@ -43,8 +43,6 @@ The console (F10) command `flatmode <action>` also works: `pistol`, `primary`, `
 
 ## Status
 
-For the full progress notes, the port to the full game, the roadmap and the changelog, see **PROGRESS.md**.
-
 Verified in the full game (offline / solo): masking up, drawing/holstering/switching, firing, ADS, reloads on both guns, the watch and its objectives panel, buttons, a one-shot lever, twist switches, a vault wheel, carrying C4 onto its receiver, picking up and throwing a loot bag, the spray gun (target progress), and grabbing a safe dial (it turns with the mouse).
 v0.3.1 (after the first real test): safe codes entered with the mouse wheel and the safes opened (safehouse safe, two different codes; deposit boxes use the same lock), the pause menu, rifle and pistol reloads 15/15 first time standing, crouched and walking.
 
